@@ -22,9 +22,6 @@
         <!-- Connection custom css -->
         <link rel="stylesheet" href="public/custom/css/style.css">
 
-        <!-- Connection custom js -->
-        <script src="public/custom/js/script.js"></script>
-
         <!-- Title -->
         <title>Title</title>
 
@@ -32,7 +29,14 @@
 
     <body>
 
-        <!-- Content -->
+        <!-- Content START -->
+
+
+
+        <!-- Content END -->
+
+        <!-- Connection custom js -->
+        <script src="public/custom/js/script.js"></script>
 
     </body>
 
